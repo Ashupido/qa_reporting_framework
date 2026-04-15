@@ -141,37 +141,9 @@ set OPENAI_API_KEY=your_api_key_here
 
 ---
 
-## 👨‍💻 Author
-
-Built by QA Automation & Data Enthusiast 🚀
 
 ---
 
-## ⭐ If you like this project
 
-Give it a star on GitHub ⭐
 
-```
-
----
-
-# 🚀 WHAT THIS README DOES
-
-## ✔ Makes your project look professional
-## ✔ Explains everything clearly
-## ✔ Helps recruiters/teachers understand your work
-## ✔ Good for GitHub portfolio
-
----
-
-# 💡 NEXT STEP (OPTIONAL BUT POWERFUL)
-
-I can also help you:
-
-## 🔥 Add screenshots to README
-## 🌐 Deploy on Streamlit Cloud (live link)
-## 📊 Upgrade UI to Power BI style
-## 🤖 Connect real OpenAI GPT API securely
-
-Just tell me 👍
 ```
