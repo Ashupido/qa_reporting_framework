@@ -2,10 +2,6 @@ streamlit
 pandas
 numpy
 plotly
-openpyxl
 python-dotenv
 requests
-selenium
-pytest
-pytest-html
-webdriver-manager
+openpyxl
